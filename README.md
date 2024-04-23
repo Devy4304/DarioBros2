@@ -1,6 +1,6 @@
 # Dario Bros. 2
 
-![](/Preview.jpeg)
+![](/Preview.png)
 
 A simple gameboy-style platformer and top-down RPG
 Some assets are from outside sources.
